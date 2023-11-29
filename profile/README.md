@@ -8,6 +8,11 @@ que serve como a interface principal para interação com o calendário, e, por 
 - **SmartCalendar_Restful**: Para o backend do sistema utilizamos do node.js e da biblioteca express para configuração das rotas.
 - **SmartCalendar_AdmScreen**: Programa feito em JAVA voltado a facilitação da visualização e admnistração do banco de dados.
 
+## Autores
+[Gabriel Mantovani](https://github.com/GabrielVY) - Desenvolvedor<br />
+[João Pedro](https://github.com/joaopedrovrg) - Desenvolvedor<br />
+[Leonardo Ângelo Figueiredo](https://github.com/leort11) - Desenvolvedor
+
 <!--
 
 **Here are some ideas to get you started:**
