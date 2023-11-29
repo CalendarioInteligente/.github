@@ -1,8 +1,12 @@
-## Smart Calendar
+# Smart Calendar
+O SmartCalendar é uma ferramenta destinada a simplificar o gerenciamento de agendamentos e eventos. 
+O projeto é composto por um programa em Java, desenvolvido para facilitar o acesso ao banco de dados, um site criado em React, 
+que serve como a interface principal para interação com o calendário, e, por fim, uma API construída com Node.js, utilizando o framework Express.
 
-O SmartCalendar é uma ferramenta voltada a facilitar o gerenciamento de agendamentos e eventos.
-O projeto tem um programa em Java feito para facilitar o acesso ao banco de dados, um site feito em react
-que é a interface principal de acesso ao calendário e por fim uma API feita com o node.js utilizando o express.
+## Divisões
+- **SmartCalendar_Web**: É essencialmente o frontend do sistema, é um site feito em react que utiliza-se da biblioteca *axios* para se comunicar com a API.
+- **SmartCalendar_Restful**: Para o backend do sistema utilizamos do node.js e da biblioteca express para configuração das rotas.
+- **SmartCalendar_AdmScreen**: Programa feito em JAVA voltado a facilitação da visualização e admnistração do banco de dados.
 
 <!--
 
